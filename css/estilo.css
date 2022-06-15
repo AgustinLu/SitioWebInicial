@@ -1,0 +1,22 @@
+img{border: dotted 6px rgb(153, 0, 255);}
+h1{ border: double 7px blue;
+    text-align: center;
+    background-color:gold
+}
+    h2{border:double 5px rgb(228, 55, 55);}
+h2{background-color: gray;}
+body{
+    background-color: white; 
+}
+
+
+body{
+
+    /*background-image: url(fondoretro.jpg);/*
+    background-repeat: no-repeat;
+    background-position: center;
+}
+a{border: double 6px rgb(104, 0, 104);
+    text-align: center;
+    background-color: red;}*/
+    
